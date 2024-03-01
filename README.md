@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,HTML,CSS,Js
 - 📖 i'm know some languages like- C,C++,Python
 - 💞️ I’m looking to collaborate on (i don't know)
-- 📫 How to reach me my insta id- (azad_r.o.y) https://www.instagram.com/azad_r.o.y/
+- 📫 Connect with me my Twitter id- https://twitter.com/Azad__roy
 
 <!---
 Azad-roy/Azad-roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
