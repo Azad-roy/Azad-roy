@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Azad-roy
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python,HTML,CSS,Js
-- 📖 i'm know some languages like- C,C++,Python
-- 💞️ I’m looking to collaborate on (i don't know)
+- 🌱 I’m currently learning Java, Tailwind
+- 📖 I have these skills - C,C++,Python,HTML,CSS,JS
 - 📫 Connect with me my Twitter id- https://twitter.com/Azad__roy
 
 <!---
