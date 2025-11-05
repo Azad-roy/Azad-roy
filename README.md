@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azad-roy
+- 👋 Hi, I’m Azad-kumar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java, Tailwind
 - 📖 I have these skills - C,C++,Python,Java,HTML,CSS,JS
