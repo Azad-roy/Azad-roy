@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azad-kumar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Spring Boot
-- 📖 I have these skills - C,C++,Python,Java,HTML,CSS,JS,Tailwind,ReactJs,Spring Boot,MongoDb
+- 📖 I have these skills - C,Java,HTML,CSS,JS,Tailwind,ReactJs,Spring Boot,MongoDb
 - 📫 Connect with me ,my LinkedIn id- https://www.linkedin.com/in/azad-kumar-b358a026b/
 
 <!---
